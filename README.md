@@ -1,2 +1,3 @@
-# SPH6004_assignment
-NUS_SPH6004_assignment1_24/25
+# NUS_SPH6004_assignment_1_24/25
+
+In this assignment, I have successfully registered for data access to the MIMIC-IV dataset through the official process under the supervision of Dr. Feng. The extracted clinical data contains snapshots of patients' health status at the point of admission into the ICU. This assignment aims to develop a strategy to select the right combination of features to build a predictor that estimates the patients' risk of acute organ failure in the Intensive Care Unit (ICU). The challenge involves implementing effective feature selection methods on the pre-extracted MIMIC data and developing multiple predictive models that can accurately assess the patients' chance of kidney failure, comparing their performances, and explaining why certain models perform better than others.
